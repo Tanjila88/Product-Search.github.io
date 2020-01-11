@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Stock Information</h2>
+<table id="StockInfo" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Stock Quantity
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+
+</table>
+@section scripts
+{
+    <script>
+        $.ajax({
+            url: '/Stock/GetStockInfo',
+            type: 'GET',
+            dataType: 'json',
+            success: function (res) {
+                var html;
+                $.each(res, function (index, row) {
+                    html = '<tr>';
+                    html += '<td>' + row.name + '</td>';
+                    html += '<td>' + row.qnty + '</td>';
+                    html += '</tr>';
+
+                    $('#StockInfo tbody').append(html);
+                })
+            }
+        })
+    </script>
+}
