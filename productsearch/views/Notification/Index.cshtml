@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ProductSearch.Models.Notification>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NotifyText)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NotifyDate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NotifyText)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NotifyDate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.NotificationID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.NotificationID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.NotificationID })
+        </td>
+    </tr>
+}
+
+</table>
