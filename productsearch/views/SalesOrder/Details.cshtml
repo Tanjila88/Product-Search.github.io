@@ -1,0 +1,42 @@
+﻿@model ProductSearch.Models.SalesOrder
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SalesOrder</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Item.ItemID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Item.ItemID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderQnty)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderQnty)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SalesDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SalesDate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.SalesOrderID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
