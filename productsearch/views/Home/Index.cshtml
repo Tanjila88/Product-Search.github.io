@@ -1,0 +1,244 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<section>
+    <div class="container">
+        <div class="row">
+            <h1 style="text-align:center;">Cascading Dropdown List</h1>
+            <div class="dropdown-box" style="margin:0 auto;margin-bottom:20px;display:table;width:80%;background: #428bca;padding: 15px;border-radius: 3px;color: #ffffff;">
+                <div class="col-md-4">
+                    <p>Product Category</p>
+                    <select style="width: 100%;height: 35px;border: none;padding: 0 10px;" id="Category" name="Category">
+                        <option value="0">--Select Category--</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <p>Sub Category</p>
+                    <select disabled="disabled" style="width: 100%;height: 35px;border: none;padding: 0 10px;" id="SubCategory" name="SubCategory">
+                        <option value="0">--Select Sub Category--</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <p>Products</p>
+                    <select disabled="disabled" style="width: 100%;height: 35px;border: none;padding: 0 10px;" id="Product" >
+                        <option value="0">--Select Product--</option>
+                    </select>
+                </div>
+                
+            </div>
+        </div>
+        <div class="row">
+            <div class="purchaseHistory" style="margin:0 auto;margin-bottom:20px;display:table;width:80%;background: #eeeeee;padding: 15px;border-radius: 3px;">
+                <table id="ShowResult" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Product Name</th>
+                            <th>Price</th>
+                            <th>Quantity</th>
+                            <th>Purchase Date</th>
+                            <th>Supplier</th>
+                            <th>Total Cost</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+
+                </table>
+            </div>
+            <div>
+                <input type="button" value="Print" onclick="window.print()" id="producti"/>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>
+            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+            enables a clean separation of concerns and gives you full control over markup
+            for enjoyable, agile development.
+        </p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Get more libraries</h2>
+        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Web Hosting</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+</div>
+
+
+
+
+@section scripts
+{
+    <script>
+
+        $(document).ready(function () {
+            //Get Category
+            $.ajax({
+                url: '/Home/GetCategories',
+                type: 'GET',
+                success: function (res) {
+                    var html;
+                    $.each(res, function (index, row) {
+                        html = '<option value="' + row.id + '">' + row.name + '</option>';
+                        $('#Category').append(html);
+                    })
+                }
+            });
+
+            //Get Sub Category based on Category
+            $('#Category').change(function () {
+                $('#SubCategory').empty();
+                $.ajax({
+                    url: '/Home/GetSubCategories',
+                    type: 'POST',
+                    data: { id: $('#Category').val() },
+                    dataType: 'json',
+                    success: function (res) {
+                        var html;
+                        var resData = $.isEmptyObject(res);//check array empty or not :: return true or false
+                        if (resData == true) {
+                            $('#SubCategory').attr('disabled',true);
+                            html = '<option value="0">No Data Available</option>';
+                            $('#SubCategory').append(html);
+                        } else {
+                            var common = { id: 0, name: '---- Select Sub Category ----' }
+                            //res.splice(position, numberOfItemToRemove, item)
+                            res.splice(0, 0, common); //Add array object
+                            $.each(res, function (index, row) {
+                                $('#SubCategory').removeAttr('disabled');
+                                html = '<option value="' + row.id + '">' + row.name + '</option>';
+                                $('#SubCategory').append(html);
+                            })
+                        }
+
+                    }
+                })
+            });
+            //Get Product Based on Sub Category
+            $('#SubCategory').change(function () {
+                $('#Product').empty();
+                $.ajax({
+                    url: '/Home/GetProducts',
+                    type: 'POST',
+                    data: { id: $('#SubCategory').val() },
+                    dataType: 'json',
+                    success: function (res) {
+                        var html;
+                        var resData = $.isEmptyObject(res);//check array empty or not :: return true or false
+                        if (resData == true) {
+                            $('#Product').attr('disabled',true);
+                            html = '<option value="0">No Data Available</option>';
+                            $('#Product').append(html);
+                        } else {
+                            var common = { id: 0, name: '---- Select Product ----' }
+                            //res.splice(position, numberOfItemToRemove, item)
+                            res.splice(0,0,common); //Add array object
+                            $.each(res, function (index, row) {
+                                $('#Product').removeAttr('disabled');
+                                html = '<option value="' + row.id + '">' + row.name + '</option>';
+                                $('#Product').append(html);
+                            })
+                        }
+                    }
+                })
+            });
+            //Get purchase history basedon product
+            $('#Product').change(function () {
+                $('#ShowResult tbody').empty();
+                $.ajax({
+                    url: '/Home/GetPurchaseHistory',
+                    type: 'POST',
+                    data: { id: $('#Product').val() },
+                    dataType: 'json',
+                    success: function (res) {
+                        var html;
+                        $.each(res, function (index, row) {
+                            html = '<tr>';
+                            html += '<td>' + row.name + '</td>';
+                            html += '<td>' + row.price + '</td>';
+                            html += '<td>' + row.qnty + '</td>';
+                            html += '<td>' + row.purDate + '</td>';
+                            html += '<td>' + row.supplier + '</td>';
+                            html += '<td>' + row.totalCost + '</td>';
+                            html += '</tr>';
+                            $('#ShowResult tbody').append(html);
+                        })
+                    }
+                })
+            });
+        });
+
+        $(document).ready(function () {
+            $('#producti').click(function () {
+                $.ajax({
+                    url: '/Home/GetPurchaseHistory',
+                    type: "get",
+                dataType: "json",
+                success: function (res) {
+                    var html;
+                    $.each(res, function (index, row) {
+                        html = '<tr>';
+                        html += '<td>' + row.name + '</td>';
+                        html += '<td>' + row.price + '</td>';
+                        html += '<td>' + row.qnty + '</td>';
+                        html += '<td>' + row.purDate + '</td>';
+                        html += '<td>' + row.supplier + '</td>';
+                        html += '<td>' + row.totalCost + '</td>';
+                        html += '</tr>';
+                        $('#ShowResult tbody').append(html);
+                    })
+                   
+                }
+            });
+           
+        });
+        });
+
+
+       // $(document).ready(function () {
+       //     $('#Product').DataTable({
+       //         dom: 'Bfrtip',
+       //         buttons: [
+       //{
+       //    extend: 'print',
+       //    text: 'Print current page',
+       //    autoPrint: false,
+       //    exportOptions: {
+       //        columns: ':visible',
+       //    },
+       //    customize: function (win) {
+       //        $(win.document.body).find('table').addClass('display').css('font-size', '9px');
+       //        $(win.document.body).find('tr:nth-child(odd) td').each(function (index) {
+       //            $(this).css('background-color', '#D0D0D0');
+       //        });
+       //        $(win.document.body).find('h1').css('text-align', 'center');
+       //    }
+       //}
+       //         ]
+       //     });
+        // });
+
+
+
+
+    </script>
+}
