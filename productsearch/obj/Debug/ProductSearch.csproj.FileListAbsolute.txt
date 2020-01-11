@@ -1,0 +1,665 @@
+E:\Dev\ProductSearch\ProductSearch\bin\ApplicationInsights.config
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\csc.exe
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\System.Collections.Immutable.dll
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\vbc.exe
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe
+E:\Dev\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe.config
+E:\Dev\ProductSearch\ProductSearch\bin\ProductSearch.dll.config
+E:\Dev\ProductSearch\ProductSearch\bin\ProductSearch.dll
+E:\Dev\ProductSearch\ProductSearch\bin\ProductSearch.pdb
+E:\Dev\ProductSearch\ProductSearch\bin\Antlr3.Runtime.dll
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.dll
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.dll
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.dll
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.Web.Infrastructure.dll
+E:\Dev\ProductSearch\ProductSearch\bin\Newtonsoft.Json.dll
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.Helpers.dll
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.Mvc.dll
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.Optimization.dll
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.Razor.dll
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.dll
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.WebPages.dll
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.dll
+E:\Dev\ProductSearch\ProductSearch\bin\WebGrease.dll
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.xml
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.xml
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.xml
+E:\Dev\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.Helpers.xml
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.Mvc.xml
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.Optimization.xml
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.Razor.xml
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.WebPages.xml
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.xml
+E:\Dev\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.xml
+E:\Dev\ProductSearch\ProductSearch\bin\Antlr3.Runtime.pdb
+E:\Dev\ProductSearch\ProductSearch\bin\Newtonsoft.Json.xml
+E:\Dev\ProductSearch\ProductSearch\obj\Debug\ProductSearch.dll
+E:\Dev\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb
+E:\Dev\ProductSearch\ProductSearch\bin\EntityFramework.dll
+E:\Dev\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.dll
+E:\Dev\ProductSearch\ProductSearch\bin\EntityFramework.xml
+E:\Dev\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.xml
+E:\Dev\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.AddTable.resources
+E:\Dev\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.Cache
+E:\Dev\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.AddTablemore.resources
+E:\Dev\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.AddTablemored.resources
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\ApplicationInsights.config
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\csc.exe
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\System.Collections.Immutable.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\vbc.exe
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe.config
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\ProductSearch.dll.config
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\ProductSearch.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\ProductSearch.pdb
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Antlr3.Runtime.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\EntityFramework.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.Web.Infrastructure.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Newtonsoft.Json.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.Helpers.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.Mvc.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.Optimization.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.Razor.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.WebPages.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\WebGrease.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\EntityFramework.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.Helpers.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.Mvc.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.Optimization.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.Razor.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.WebPages.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Antlr3.Runtime.pdb
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\bin\Newtonsoft.Json.xml
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.Cache
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\obj\Debug\ProductSearch.dll
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb
+E:\1229966\ProductSearch\ProductSearch\bin\ApplicationInsights.config
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\csc.exe
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\System.Collections.Immutable.dll
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\System.Reflection.Metadata.dll
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\vbc.exe
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe
+E:\1229966\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe.config
+E:\1229966\ProductSearch\ProductSearch\bin\ProductSearch.dll.config
+E:\1229966\ProductSearch\ProductSearch\bin\ProductSearch.dll
+E:\1229966\ProductSearch\ProductSearch\bin\ProductSearch.pdb
+E:\1229966\ProductSearch\ProductSearch\bin\Antlr3.Runtime.dll
+E:\1229966\ProductSearch\ProductSearch\bin\EntityFramework.dll
+E:\1229966\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.dll
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.AI.Agent.Intercept.dll
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.dll
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.dll
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.dll
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.dll
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.Web.Infrastructure.dll
+E:\1229966\ProductSearch\ProductSearch\bin\Newtonsoft.Json.dll
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.Helpers.dll
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.Mvc.dll
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.Optimization.dll
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.Razor.dll
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.dll
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.WebPages.dll
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.dll
+E:\1229966\ProductSearch\ProductSearch\bin\WebGrease.dll
+E:\1229966\ProductSearch\ProductSearch\bin\EntityFramework.xml
+E:\1229966\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.xml
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.xml
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.xml
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.xml
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.xml
+E:\1229966\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.Helpers.xml
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.Mvc.xml
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.Optimization.xml
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.Razor.xml
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.WebPages.xml
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.xml
+E:\1229966\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.xml
+E:\1229966\ProductSearch\ProductSearch\bin\Antlr3.Runtime.pdb
+E:\1229966\ProductSearch\ProductSearch\bin\Newtonsoft.Json.xml
+E:\1229966\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.AddTable.resources
+E:\1229966\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.AddTablemore.resources
+E:\1229966\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.AddTablemored.resources
+E:\1229966\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.Cache
+E:\1229966\ProductSearch\ProductSearch\obj\Debug\ProductSearch.dll
+E:\1229966\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb
+E:\1229966\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csprojResolveAssemblyReference.cache
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\ApplicationInsights.config
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\csc.exe
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\vbc.exe
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\ProductSearch.dll.config
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\ProductSearch.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\ProductSearch.pdb
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Antlr3.Runtime.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\EntityFramework.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Newtonsoft.Json.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.Helpers.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.Mvc.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.Optimization.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.Razor.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\WebGrease.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\EntityFramework.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.Helpers.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.Mvc.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.Optimization.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.Razor.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Antlr3.Runtime.pdb
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Newtonsoft.Json.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb
+E:\Dev\Cascading_Dropdownlist\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.updatetable.resources
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\ApplicationInsights.config
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\csc.exe
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\vbc.exe
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\ProductSearch.dll.config
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\ProductSearch.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\ProductSearch.pdb
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Antlr3.Runtime.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\EntityFramework.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Newtonsoft.Json.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.Helpers.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.Mvc.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.Optimization.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.Razor.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\WebGrease.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\EntityFramework.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.Helpers.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.Mvc.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.Optimization.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.Razor.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Antlr3.Runtime.pdb
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Newtonsoft.Json.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.Cache
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\ApplicationInsights.config
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\csc.exe
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\System.Collections.Immutable.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\System.Reflection.Metadata.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\vbc.exe
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe.config
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\ProductSearch.dll.config
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\ProductSearch.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\ProductSearch.pdb
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Antlr3.Runtime.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\EntityFramework.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.AI.Agent.Intercept.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.Web.Infrastructure.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Newtonsoft.Json.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.Helpers.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.Mvc.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.Optimization.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.Razor.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.WebPages.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\WebGrease.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\EntityFramework.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.Helpers.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.Mvc.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.Optimization.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.Razor.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.WebPages.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Antlr3.Runtime.pdb
+E:\1229966\Ado\ProductSearch\ProductSearch\bin\Newtonsoft.Json.xml
+E:\1229966\Ado\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csprojResolveAssemblyReference.cache
+E:\1229966\Ado\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.updatealltable.resources
+E:\1229966\Ado\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.Cache
+E:\1229966\Ado\ProductSearch\ProductSearch\obj\Debug\ProductSearch.dll
+E:\1229966\Ado\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.updatealltable.resources
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.Cache
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\obj\Debug\ProductSearch.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\ApplicationInsights.config
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\csc.exe
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\System.Collections.Immutable.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\System.Reflection.Metadata.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\vbc.exe
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe.config
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\ProductSearch.dll.config
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\ProductSearch.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\ProductSearch.pdb
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Antlr3.Runtime.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\EntityFramework.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.AI.Agent.Intercept.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.Web.Infrastructure.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Newtonsoft.Json.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.Helpers.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.Mvc.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.Optimization.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.Razor.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.WebPages.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\WebGrease.dll
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\EntityFramework.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.Helpers.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.Mvc.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.Optimization.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.Razor.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.WebPages.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.xml
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Antlr3.Runtime.pdb
+E:\1229966\MVC\cascadingwithstock\ProductSearch\ProductSearch\bin\Newtonsoft.Json.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTable.resources
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.Cache
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTables.resources
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesd.resources
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesdd.resources
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesddd.resources
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\ApplicationInsights.config
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\csc.exe
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\System.Collections.Immutable.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\vbc.exe
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe.config
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\ProductSearch.dll.config
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\ProductSearch.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\ProductSearch.pdb
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Antlr3.Runtime.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\EntityFramework.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.Web.Infrastructure.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Newtonsoft.Json.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.Helpers.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.Mvc.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.Optimization.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.Razor.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.WebPages.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\WebGrease.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\EntityFramework.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.Helpers.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.Mvc.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.Optimization.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.Razor.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.WebPages.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Antlr3.Runtime.pdb
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\Newtonsoft.Json.xml
+E:\Dev\stockupdate\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTable.resources
+E:\Dev\stockupdate\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTables.resources
+E:\Dev\stockupdate\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesd.resources
+E:\Dev\stockupdate\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesdd.resources
+E:\Dev\stockupdate\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesddd.resources
+E:\Dev\stockupdate\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.Cache
+E:\Dev\stockupdate\ProductSearch\ProductSearch\obj\Debug\ProductSearch.dll
+E:\Dev\stockupdate\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb
+E:\Dev\stockupdate\ProductSearch\ProductSearch\bin\System.Linq.Dynamic.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.Security.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Owin.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\System.Linq.Dynamic.dll
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.Security.xml
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTable.resources
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTables.resources
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesd.resources
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesdd.resources
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesddd.resources
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.updateNotificationTable.resources
+C:\Users\Rahim Mahamud\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.updateNotificationTablead.resources
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.Security.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Owin.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\System.Linq.Dynamic.dll
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\bin\Microsoft.Owin.Security.xml
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.updateNotificationTable.resources
+C:\Users\idb_c#\Desktop\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.updateNotificationTablead.resources
+D:\Round-34\ProductSearch\ProductSearch\bin\ApplicationInsights.config
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\csc.exe
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\System.Collections.Immutable.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\System.Reflection.Metadata.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\vbc.exe
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe
+D:\Round-34\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe.config
+D:\Round-34\ProductSearch\ProductSearch\bin\ProductSearch.dll.config
+D:\Round-34\ProductSearch\ProductSearch\bin\ProductSearch.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\ProductSearch.pdb
+D:\Round-34\ProductSearch\ProductSearch\bin\Antlr3.Runtime.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\EntityFramework.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.Owin.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.Owin.Security.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.Web.Infrastructure.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Newtonsoft.Json.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\Owin.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Linq.Dynamic.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.Helpers.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.Mvc.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.Optimization.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.Razor.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.WebPages.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\WebGrease.dll
+D:\Round-34\ProductSearch\ProductSearch\bin\EntityFramework.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.Owin.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Microsoft.Owin.Security.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.Helpers.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.Mvc.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.Optimization.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.Razor.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.WebPages.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.xml
+D:\Round-34\ProductSearch\ProductSearch\bin\Antlr3.Runtime.pdb
+D:\Round-34\ProductSearch\ProductSearch\bin\Newtonsoft.Json.xml
+D:\Round-34\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csprojResolveAssemblyReference.cache
+D:\Round-34\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTable.resources
+D:\Round-34\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTables.resources
+D:\Round-34\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesd.resources
+D:\Round-34\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesdd.resources
+D:\Round-34\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesddd.resources
+D:\Round-34\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.updateNotificationTable.resources
+D:\Round-34\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.updateNotificationTablead.resources
+D:\Round-34\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.Cache
+D:\Round-34\ProductSearch\ProductSearch\obj\Debug\ProductSearch.dll
+D:\Round-34\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb
+E:\All(2)\ProductSearch\ProductSearch\bin\ApplicationInsights.config
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\csc.exe
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\System.Collections.Immutable.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\System.Reflection.Metadata.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\vbc.exe
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe
+E:\All(2)\ProductSearch\ProductSearch\bin\roslyn\VBCSCompiler.exe.config
+E:\All(2)\ProductSearch\ProductSearch\bin\ProductSearch.dll.config
+E:\All(2)\ProductSearch\ProductSearch\bin\ProductSearch.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\ProductSearch.pdb
+E:\All(2)\ProductSearch\ProductSearch\bin\Antlr3.Runtime.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\EntityFramework.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AI.Agent.Intercept.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.Owin.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.Owin.Security.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.Web.Infrastructure.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Newtonsoft.Json.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\Owin.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Linq.Dynamic.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.Helpers.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.Mvc.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.Optimization.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.Razor.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.WebPages.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\WebGrease.dll
+E:\All(2)\ProductSearch\ProductSearch\bin\EntityFramework.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\EntityFramework.SqlServer.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AI.DependencyCollector.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AI.Web.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AI.WindowsServer.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.ApplicationInsights.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.Owin.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Microsoft.Owin.Security.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.Helpers.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.Mvc.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.Optimization.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.Razor.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.WebPages.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.WebPages.Deployment.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\System.Web.WebPages.Razor.xml
+E:\All(2)\ProductSearch\ProductSearch\bin\Antlr3.Runtime.pdb
+E:\All(2)\ProductSearch\ProductSearch\bin\Newtonsoft.Json.xml
+E:\All(2)\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csprojResolveAssemblyReference.cache
+E:\All(2)\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTable.resources
+E:\All(2)\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTables.resources
+E:\All(2)\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesd.resources
+E:\All(2)\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesdd.resources
+E:\All(2)\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.UpdateTablesddd.resources
+E:\All(2)\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.updateNotificationTable.resources
+E:\All(2)\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Migrations.updateNotificationTablead.resources
+E:\All(2)\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.Cache
+E:\All(2)\ProductSearch\ProductSearch\obj\Debug\ProductSearch.dll
+E:\All(2)\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb
